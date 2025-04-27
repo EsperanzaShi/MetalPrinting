@@ -1,0 +1,24 @@
+[modelsection_001_s1_vk.cli]
+LaserSpeed = 1000.000 mm/s
+LaserPower = 130.000 watt
+FocusShift = 0.00000 mm
+PointDistance = 200.000 µm
+ExposureTime = 400.000 µs
+[modelsection_001_s1_vs.cli]
+LaserSpeed = 400.000 mm/s
+LaserPower = 260.000 watt
+FocusShift = 0.00000 mm
+PointDistance = 200.000 µm
+ExposureTime = 400.000 µs
+[modelsection_001_s1_kv.cli]
+LaserSpeed = 1000.000 mm/s
+LaserPower = 130.000 watt
+FocusShift = 0.00000 mm
+PointDistance = 200.000 µm
+ExposureTime = 400.000 µs
+[modelsection_001_st_sx.cli]
+LaserSpeed = 800.000 mm/s
+LaserPower = 130.000 watt
+FocusShift = 0.00000 mm
+PointDistance = 200.000 µm
+ExposureTime = 400.000 µs
